@@ -1,5 +1,5 @@
 # Simple-Cash
-COSC 4310 Computer Architecture - Cache Project
+COSC 4310 Computer Architecture - Cache Project 11/15/2020
 
 Implement a Simple Cache with set associativity options for direct-mapped, set associative (2-way/4-way) (LRU replacement policy), and fully associative (LRU replacement policy) using JAVA or C++.
 
